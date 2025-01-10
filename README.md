@@ -57,4 +57,4 @@ By addressing gaps in these phases, the organization can strengthen its defenses
 
 The Unified Kill Chain is a robust tool for understanding and countering sophisticated cyber threats. It aligns closely with modern cybersecurity practices, ensuring organizations are better equipped to handle advanced persistent threats (APTs) and other complex attacks.
 
-learn more [here](https://www.unifiedkillchain.com/)
+We can learn and get more understanding [here](https://www.unifiedkillchain.com/)
